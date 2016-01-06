@@ -13,7 +13,9 @@ public class Scrape {
 
 	private String OutputLocation;
 
-	private final String TopCrashList = "https://crash-stats.mozilla.com/topcrasher/products/Firefox/versions/30.0a1?days=7";
+	//private final String TopCrashList = "https://crash-stats.mozilla.com/topcrasher/products/Firefox/versions/30.0a1?days=7";
+	private final String TopCrashList = "https://crash-stats.mozilla.com/topcrashers/?product=Firefox&version=46.0a1&days=7";
+					
 	private final String mainSiteURL="https://crash-stats.mozilla.com";
 
 	private int FileProcessCount=0;
