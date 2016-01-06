@@ -1,0 +1,9 @@
+
+
+Folder Values
+Number of Files:4
+Leven Total:7
+Generic String Distance:7
+--------- Averages -----------
+Generic String Avg:1.75
+Generic leven Avg:1.75

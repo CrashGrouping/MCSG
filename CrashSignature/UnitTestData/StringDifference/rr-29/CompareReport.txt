@@ -1,0 +1,10 @@
+
+
+Folder Values for: rr-29
+Number of Files:4
+Leven Total:-29.0
+Generic String Distance:29
+Missing Crash Line Count:4
+--------- Averages -----------
+Generic String Avg:7.25
+Generic leven Avg:-7.25

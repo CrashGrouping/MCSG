@@ -1,0 +1,7 @@
+Complete Values
+Number of Directories:4
+Number of Files:0
+--------- Averages -----------
+Complete Generic String Avg:Infinity
+Complete leven Avg:Infinity
+TBD

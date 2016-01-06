@@ -1,0 +1,8 @@
+Complete Values
+Number of Directories:0
+Number of Files:0
+Total Number of Lines:0
+--------- Averages -----------
+Complete Generic String Avg:NaN
+Complete leven Avg:NaN
+TBD

@@ -1,0 +1,10 @@
+
+
+Folder Values for: MissingStackFolder2
+Number of Files:3
+Leven Total:7
+Generic String Distance:7
+Missing Crash Line Count:5
+--------- Averages -----------
+Generic String Avg:2.3333333333333335
+Generic leven Avg:2.3333333333333335

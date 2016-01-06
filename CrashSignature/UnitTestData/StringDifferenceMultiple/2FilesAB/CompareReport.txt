@@ -1,0 +1,10 @@
+
+
+Folder Values for: 2FilesAB
+Number of Files:2
+Leven Total:0.0
+Generic String Distance:1475
+Missing Crash Line Count:2
+--------- Averages -----------
+Generic String Avg:737.5
+Generic leven Avg:0.0

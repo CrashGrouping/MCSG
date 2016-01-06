@@ -1,0 +1,10 @@
+
+
+Folder Values for: 2FilesBC
+Number of Files:2
+Leven Total:-1415.0
+Generic String Distance:1454
+Missing Crash Line Count:2
+--------- Averages -----------
+Generic String Avg:727.0
+Generic leven Avg:-707.5

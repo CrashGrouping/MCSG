@@ -1,0 +1,6 @@
+2011/12/14 17:52:22
+Final Number of Missing stack lines: 0/0
+Total Folders: 0
+Total Files with missing crash info:0
+Total number folders examined:0
+Total number files examined:0

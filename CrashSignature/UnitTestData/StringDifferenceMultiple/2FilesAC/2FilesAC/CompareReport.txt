@@ -1,0 +1,10 @@
+
+
+Folder Values for: 2FilesAC
+Number of Files:2
+Leven Total:-61.0
+Generic String Distance:62
+Missing Crash Line Count:2
+--------- Averages -----------
+Generic String Avg:31.0
+Generic leven Avg:-30.5

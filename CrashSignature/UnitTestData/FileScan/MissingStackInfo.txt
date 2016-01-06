@@ -1,0 +1,6 @@
+2011/12/14 17:21:20
+Final Number of Missing stack lines: 28/336
+Total Folders: 4
+Total Files with missing crash info:12
+Total number folders examined:4
+Total number files examined:16

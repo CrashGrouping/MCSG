@@ -1,0 +1,10 @@
+
+
+Folder Values for: 3FilesABC
+Number of Files:3
+Leven Total:0.0
+Generic String Distance:2991
+Missing Crash Line Count:3
+--------- Averages -----------
+Generic String Avg:997.0
+Generic leven Avg:0.0

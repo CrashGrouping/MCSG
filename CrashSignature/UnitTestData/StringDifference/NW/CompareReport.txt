@@ -1,0 +1,10 @@
+
+
+Folder Values for: NW
+Number of Files:0
+Leven Total:0.0
+Generic String Distance:0
+Missing Crash Line Count:0
+--------- Averages -----------
+Generic String Avg:NaN
+Generic leven Avg:NaN

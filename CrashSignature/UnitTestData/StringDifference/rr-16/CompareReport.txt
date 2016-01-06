@@ -1,0 +1,10 @@
+
+
+Folder Values for: rr-16
+Number of Files:3
+Leven Total:-16.0
+Generic String Distance:16
+Missing Crash Line Count:3
+--------- Averages -----------
+Generic String Avg:5.333333333333333
+Generic leven Avg:-5.333333333333333

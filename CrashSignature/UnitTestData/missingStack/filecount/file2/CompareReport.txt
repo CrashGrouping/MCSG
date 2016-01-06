@@ -1,0 +1,10 @@
+
+
+Folder Values for: file2
+Number of Files:2
+Leven Total:7
+Generic String Distance:7
+Missing Crash Line Count:2
+--------- Averages -----------
+Generic String Avg:3.5
+Generic leven Avg:3.5

@@ -1,0 +1,10 @@
+
+
+Folder Values for: TotalStringTests
+Number of Files:4
+Leven Total:-6698.0
+Generic String Distance:6732
+Missing Crash Line Count:2
+--------- Averages -----------
+Generic String Avg:1683.0
+Generic leven Avg:-1674.5

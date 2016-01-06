@@ -1,0 +1,10 @@
+
+
+Folder Values for: NoDifference
+Number of Files:2
+Leven Total:0.0
+Generic String Distance:0
+Missing Crash Line Count:2
+--------- Averages -----------
+Generic String Avg:0.0
+Generic leven Avg:0.0

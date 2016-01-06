@@ -1,0 +1,10 @@
+
+
+Folder Values for: rr-55
+Number of Files:6
+Leven Total:-55.0
+Generic String Distance:55
+Missing Crash Line Count:6
+--------- Averages -----------
+Generic String Avg:9.166666666666666
+Generic leven Avg:-9.166666666666666

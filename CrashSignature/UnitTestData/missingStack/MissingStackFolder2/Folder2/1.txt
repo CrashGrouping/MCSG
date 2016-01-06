@@ -1,0 +1,21 @@
+https://crash-stats.mozilla.com/report/index/517c0104-015d-4150-8965-187fe2111129
+xul.dll^*^nsSocketInputStream::Read^*^netwerk/base/src/nsSocketTransport2.cpp:352
+xul.dll^*^nsHttpConnection::OnWriteSegment^*^netwerk/protocol/http/nsHttpConnection.cpp:768
+xul.dll^*^nsHttpTransaction::WritePipeSegment^*^netwerk/protocol/http/nsHttpTransaction.cpp:533
+^*^@0x7fff^*^
+xul.dll^*^nsHttpTransaction::WriteSegments^*^netwerk/protocol/http/nsHttpTransaction.cpp:563
+xul.dll^*^txCoreFunctionCall::`vector deleting destructor'^*^
+xul.dll^*^nsHttpConnection::OnSocketReadable^*^netwerk/protocol/http/nsHttpConnection.cpp:800
+xul.dll^*^nsHttpConnection::OnInputStreamReady^*^netwerk/protocol/http/nsHttpConnection.cpp:917
+xul.dll^*^nsSocketInputStream::OnSocketReady^*^netwerk/base/src/nsSocketTransport2.cpp:255
+xul.dll^*^nsSocketTransport::OnSocketReady^*^netwerk/base/src/nsSocketTransport2.cpp:1538
+xul.dll^*^nsSocketTransportService::DoPollIteration^*^netwerk/base/src/nsSocketTransportService2.cpp:738
+xul.dll^*^nsSocketTransportService::Run^*^netwerk/base/src/nsSocketTransportService2.cpp:631
+xul.dll^*^nsThread::ProcessNextEvent^*^xpcom/threads/nsThread.cpp:631
+xul.dll^*^nsThreadStartupEvent::Run^*^xpcom/threads/nsThread.cpp:201
+nspr4.dll^*^_PR_NativeRunThread^*^nsprpub/pr/src/threads/combined/pruthr.c:426
+nspr4.dll^*^pr_root^*^nsprpub/pr/src/md/windows/w95thred.c:122
+msvcr80.dll^*^_callthreadstartex^*^f:\\dd\\vctools\\crt_bld\\self_x86\\crt\\src\\threadex.c:348
+msvcr80.dll^*^_threadstartex^*^f:\\dd\\vctools\\crt_bld\\self_x86\\crt\\src\\threadex.c:326
+kernel32.dll^*^BaseThreadStart^*^
+default
